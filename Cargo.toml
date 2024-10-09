@@ -1,0 +1,8 @@
+[package]
+name = "troubleshoot-tract"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.24.1"
+tract-onnx = "0.21.7"
